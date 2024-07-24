@@ -1,0 +1,2 @@
+Para este exemplo, vamos supor que estamos utilizando sensores DHT22 para temperatura e umidade, 
+e um sensor MQ-135 para qualidade do ar. A comunicação pode ser feita via um microcontrolador como o Raspberry Pi.
